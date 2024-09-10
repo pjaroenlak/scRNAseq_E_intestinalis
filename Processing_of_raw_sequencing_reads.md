@@ -1,8 +1,8 @@
-#Processing of raw sequencing reads
+# Processing of raw sequencing reads
 
 After obtaining raw sequencing reads, they were mapped with a combined reference genome of human GRCh38 and *E. intestinalis* ATCC 50506 using Cell Ranger `count` that was installed on HPC. 
 
-##**Procedure**
+## **Procedure**
 
 Log in to BigPurple 
 
