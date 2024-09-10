@@ -20,8 +20,9 @@ Load Cell Ranger 4.0.0 and bcl2fastq 2.2.0
 
 To demultiplex the dataset containing hashing oligos (HTO). We need to create 1) library.csv and 2) feature_reference.csv that looked like these
 
-![]()
-![]()
+![1](https://github.com/pjaroenlak/scRNAseq_E_intestinalis/blob/main/Images/Screen_Shot_2020-11-09_at_6.25.08_PM.png)
+
+![2](https://github.com/pjaroenlak/scRNAseq_E_intestinalis/blob/main/Images/Screen_Shot_2020-11-09_at_6.38.38_PM.png)
 
 Next, we are going to make the combined reference genome. We will run this using SBATCH to make it runs eventhough we lost internet connection
 
