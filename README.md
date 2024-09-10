@@ -49,4 +49,4 @@ R scripts that were used for data processing are uploaded in separate .R file fo
 - `Seurat` in R was used to process scRNA-seq data
 
 ## Citation
-Jaroenlak, P.*, McCarty, K.L.*, Xia, B., Lam, C., Zwack, E.E., Yanai, I., Bhabha, G. and Ekiert, D.C., 2024. scRNA-seq reveals transcriptional dynamics of Encephalitozoon intestinalis parasites in human macrophages. bioRxiv, pp.2024-05. (*equally contributed). *[Link.](https://www.biorxiv.org/content/10.1101/2024.05.30.596468v1.abstract "Link.")*****
+*Jaroenlak, P.**, *McCarty, K.L.**, Xia, B., Lam, C., Zwack, E.E., Yanai, I., Bhabha, G. and Ekiert, D.C., 2024. scRNA-seq reveals transcriptional dynamics of Encephalitozoon intestinalis parasites in human macrophages. bioRxiv, pp.2024-05. (*equally contributed). *[Link.](https://www.biorxiv.org/content/10.1101/2024.05.30.596468v1.abstract "Link.")*****
