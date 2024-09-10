@@ -1,6 +1,6 @@
 # scRNAseq_E_intestinalis
 
-Single-cell RNA sequencing analysis of human macrophages infected with microsporidian Encephalitozoon intestinalis
+Single-cell RNA sequencing analysis of human macrophages infected with microsporidian *Encephalitozoon intestinalis*
 
 **Table of contents**
 - [Introduction](https://github.com/pjaroenlak/scRNAseq_E_intestinalis/edit/main/README.md#introduction)
@@ -48,5 +48,5 @@ R scripts that were used for data processing are uploaded in separate .R file fo
 - `Cell Ranger` from 10X Genomics was used to process raw sequencing reads
 - `Seurat` in R was used to process scRNA-seq data
 
-##Citation
+## Citation
 Jaroenlak, P.*, McCarty, K.L.*, Xia, B., Lam, C., Zwack, E.E., Yanai, I., Bhabha, G. and Ekiert, D.C., 2024. scRNA-seq reveals transcriptional dynamics of Encephalitozoon intestinalis parasites in human macrophages. bioRxiv, pp.2024-05. (*equally contributed). *[Link.](https://www.biorxiv.org/content/10.1101/2024.05.30.596468v1.abstract "Link.")*****
