@@ -21,7 +21,7 @@ Three libraries were prepared and sequenced, including
 
 
 ## Workflow summary
-###Processing of raw sequencing reads
+### Processing of raw sequencing reads
 
 - Generation of the combined reference genome between human and E. intestinalis
 - Mapping raw reads with the combined reference genome and generation of gene expression matrix
@@ -34,7 +34,7 @@ Three libraries were prepared and sequenced, including
 - Identification of marker genes and differentially expressed genes
 
 
-##Documentation
+## Documentation
 Raw sequencing reads were mapped with the combined reference genome and the gene expression matrices were generated using Cell Ranger. Codes are available in the "CellRanger.xx" file.
 
 After obtaining the gene expression matrices, they were processed using Seurat in R. We processed these datasets using three strategies
@@ -44,7 +44,7 @@ After obtaining the gene expression matrices, they were processed using Seurat i
 
 R scripts that were used for data processing are uploaded in separate .R file for each data processing strategy
 
-##Credits
+## Credits
 - `Cell Ranger` from 10X Genomics was used to process raw sequencing reads
 - `Seurat` in R was used to process scRNA-seq data
 
