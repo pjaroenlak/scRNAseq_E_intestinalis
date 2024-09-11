@@ -37,6 +37,8 @@ Three libraries were prepared and sequenced, including
 ## Documentation
 Raw sequencing reads were mapped with the combined reference genome and the gene expression matrices were generated using Cell Ranger. Codes are available in the [Processing_of_raw_sequencing_reads.md](https://github.com/pjaroenlak/scRNAseq_E_intestinalis/blob/main/Processing_of_raw_sequencing_reads.md) file.
 
+The raw sequencing reads from all three libraries can be downloaded [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268707) (NCBI GEO accession no: GSE268707)
+
 After obtaining the gene expression matrices, they were processed using Seurat in R. We processed these datasets using three strategies
 1. [Total transcriptome processing](https://github.com/pjaroenlak/scRNAseq_E_intestinalis/blob/main/PJSC22_KM_Total_Transcriptome.R)
 2. [Human only transcripts processing](https://github.com/pjaroenlak/scRNAseq_E_intestinalis/blob/main/PJSC20_KM_Human_Only_Transcripts.R)
