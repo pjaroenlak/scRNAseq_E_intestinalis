@@ -2,6 +2,8 @@
 
 After obtaining raw sequencing reads, they were mapped with a combined reference genome of human GRCh38 and *E. intestinalis* ATCC 50506 using Cell Ranger `count` that was installed on HPC. 
 
+The raw sequencing reads from all three libraries can be downloaded [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268707) (NCBI GEO accession no: GSE268707)
+
 ## **Procedure**
 
 Log in to BigPurple 
