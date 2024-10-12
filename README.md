@@ -46,6 +46,17 @@ After obtaining the gene expression matrices, they were processed using Seurat i
 
 R scripts that were used for data processing are uploaded in separate .R file for each data processing strategy
 
+### List of the tool version used in this study
+- Cell Ranger 5.0.1
+- bcl2fastq 2.2.0
+- Seurat version 4.0
+- tidyverse 2.0.0
+- dplyr 3.1.4
+- RColorBrewer 1.1-3
+- ggplot2 3.5.1
+- cowplot 1.1.3
+- SignalP 6.0
+
 ## Credits
 - `Cell Ranger` from 10X Genomics was used to process raw sequencing reads
 - `Seurat` in R was used to process scRNA-seq data
